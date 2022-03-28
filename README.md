@@ -20,4 +20,5 @@ Application.streamingAssetsPath경로로 파일을 일고 쓸려면 Assets/Strea
 
  https://www.delftstack.com/ko/howto/csharp/how-to-read-a-text-file-line-by-line-in-csharp/
 
+![image](https://user-images.githubusercontent.com/72333637/160378256-455c2c90-f723-4766-8720-2e67e071191f.png)
 
