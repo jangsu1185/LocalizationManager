@@ -20,5 +20,8 @@ Application.streamingAssetsPath경로로 파일을 일고 쓸려면 Assets/Strea
 
  https://www.delftstack.com/ko/howto/csharp/how-to-read-a-text-file-line-by-line-in-csharp/
 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/72333637/160378256-455c2c90-f723-4766-8720-2e67e071191f.png)
-
+구글 스프레드시트에서 첫 행은 SystemLanguage 시스템언어 enum 영어 표기이며 두번째 행은 언어의 로컬화 string이다.
+3번째 행부터 0열을 키 값으로 사용하고 default언어로 사용하게 되어있다. 
