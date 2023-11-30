@@ -5,6 +5,8 @@
 로컬라이징 참고한 자료
 
 https://www.youtube.com/watch?v=a9lkBiTiD7M&t=3s
+구글 엑셀에서 =GOOGLETRANSLATE(번역대상셀,번역대상언어,번역변환될언어)
+예) =GOOGLETRANSLATE(C3,"EN","KO")
 
 해당 유투브 영상에 구글 스프레드시트를 클라우드 서버처럼 사용하는 방법과 함수를 통해 번역까지 하는 방법도 알 수 있다.
 
