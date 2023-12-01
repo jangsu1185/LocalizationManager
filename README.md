@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=a9lkBiTiD7M&t=3s
 
 예) =GOOGLETRANSLATE(C3,"EN","KO")
 
+proper()함수를 쓰면 첫 알파벳 문자만 대문자로 바뀌게 된다.
+예) =proper(GOOGLETRANSLATE(B3,"KO","EN"))
+
+
+
 해당 유투브 영상에 구글 스프레드시트를 클라우드 서버처럼 사용하는 방법과 함수를 통해 번역까지 하는 방법도 알 수 있다.
 
 https://velog.io/@uchang903/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EB%8B%A4%EC%A4%91-%EC%96%B8%EC%96%B4-%EC%A7%80%EC%9B%90%EB%A1%9C%EC%BB%AC%EB%9D%BC%EC%9D%B4%EC%A7%95Localization
