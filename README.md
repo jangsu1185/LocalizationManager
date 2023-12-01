@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=a9lkBiTiD7M&t=3s
 예) =GOOGLETRANSLATE(C3,"EN","KO")
 
 proper()함수를 쓰면 첫 알파벳 문자만 대문자로 바뀌게 된다.
+
 예) =proper(GOOGLETRANSLATE(B3,"KO","EN"))
 
 
