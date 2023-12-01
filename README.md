@@ -24,6 +24,7 @@ https://velog.io/@uchang903/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EB%8B%A4%EC%A4%91-%EC%9
 유니티 텍스트 에셋으로 읽는 방법
 
 TextAsset text =  Resources.Load<TextAsset>();
+
 https://ajh322.tistory.com/172
 
 https://chopchops.tistory.com/13
